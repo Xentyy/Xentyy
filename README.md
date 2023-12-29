@@ -1,4 +1,4 @@
-[![MasterHead](https://novasta.com.tr/2022nin-populer-programlama-dilleri/)
+[![MasterHead](https://www.creodive.com.tr/wp-content/uploads/programlama-dilleri-1.jpeg)
 <h1 align="center">Hi 👋, I'm Melih!</h1>
 <h3 align="center">A passionate computer engineering student from Turkey.</h3>
 
