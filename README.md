@@ -1,4 +1,4 @@
-[![MasterHead](https://novasta.com.tr/wp-content/uploads/2022nin-populer-programlama-dilleri-novasta-1.jpg)
+[![MasterHead](https://4.bp.blogspot.com/-5Uv7Ky8fiDY/VY-h9_uk18I/AAAAAAAABJc/ZUrECzbb6gE/w1200-h630-p-k-no-nu/Programlama-TV_istihdam.png)
 <h1 align="center">Hi 👋, I'm Melih!</h1>
 <h3 align="center">A passionate computer engineering student from Turkey.</h3>
 
