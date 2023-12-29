@@ -1,4 +1,4 @@
-[![MasterHead](https://4.bp.blogspot.com/-5Uv7Ky8fiDY/VY-h9_uk18I/AAAAAAAABJc/ZUrECzbb6gE/w1200-h630-p-k-no-nu/Programlama-TV_istihdam.png)
+[![MasterHead](https://hypernet.com.tr/dimg/icerik/293732243425900284632.png)
 <h1 align="center">Hi 👋, I'm Melih!</h1>
 <h3 align="center">A passionate computer engineering student from Turkey.</h3>
 
