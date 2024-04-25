@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Web Developing**
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **back-end**
 
