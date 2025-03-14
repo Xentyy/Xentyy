@@ -2,13 +2,12 @@
 <h1 align="center">Hi 👋, I'm Melih!</h1>
 <h3 align="center">A passionate computer engineering student from Turkey.</h3>
 
-<p align="left"> <a href="https://twitter.com/meliihhhhhhh" target="blank"><img src="https://img.shields.io/twitter/follow/meliihhhhhhh?logo=twitter&style=for-the-badge" alt="meliihhhhhhh" /></a> </p>
 
-- 🔭 I’m currently working on **Web Developing**
+- 🔭 I’m currently working on **Web Developing and AI**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **FastAPI**
 
-- 💬 Ask me about **back-end**
+- 💬 Ask me about **back-end and AI**
 
 - 📫 How to reach me **melihcanimo45@gmail.com**
 
